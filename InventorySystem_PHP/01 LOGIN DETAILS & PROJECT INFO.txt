@@ -1,0 +1,16 @@
+**Database Name: inventory_system**
+
+**Developed by SAAD**
+
+
+
+
+**Admin Login Details**
+
+Username: admin
+Password: admin
+
+**User(Employee) Login Details**
+
+Username: user
+Password: user 
